@@ -8,6 +8,7 @@
     <a href="https://travis-ci.org/diegomura/react-pdf">
       <img src="https://img.shields.io/travis/diegomura/react-pdf.svg" />
     </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Ftaylorudell%2Freact-pdf?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftaylorudell%2Freact-pdf.svg?type=shield"/></a>
     <a href="https://github.com/diegomura/react-pdf/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/diegomura/react-pdf.svg" />
     </a>
@@ -19,6 +20,9 @@
     </a>
   </p>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftaylorudell%2Freact-pdf.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftaylorudell%2Freact-pdf?ref=badge_large)
 
 ## How to install
 ```sh
